@@ -6,9 +6,6 @@
         { "id": "E004", "name": "David Brown", "role": "DevOps Engineer", "department": "Operations", "email": "david@techcompany.com" },
         { "id": "E005", "name": "Eve Davis", "role": "UI/UX Designer", "department": "Design", "email": "eve@techcompany.com" },
         { "id": "E006", "name": "Frank Green", "role": "Database Administrator", "department": "IT", "email": "frank@techcompany.com" },
-        { "id": "E007", "name": "Grace Lee", "role": "HR Manager", "department": "Human Resources", "email": "grace@techcompany.com" },
-        { "id": "E008", "name": "Hank Thompson", "role": "Marketing Specialist", "department": "Marketing", "email": "hank@techcompany.com" },
-        { "id": "E009", "name": "Ivy Martinez", "role": "Finance Analyst", "department": "Finance", "email": "ivy@techcompany.com" },
-        { "id": "E010", "name": "Jack Wilson", "role": "Chief Technology Officer", "department": "Executive", "email": "jack@techcompany.com" }
+        { "id": "E007", "name": "Grace Lee", "role": "HR Manager", "department": "Human Resources", "email": "grace@techcompany.com" }
     ]
 }
